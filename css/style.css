@@ -1,0 +1,328 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    transition: 0.3s;
+}
+   body{
+height: 2000px;
+
+   }
+.header{
+      width: 100%;
+      height: 150px;
+      background-color: rgb(10, 40, 77);
+      /* top: 0; */
+      /* overflow: auto; */
+      /* position: fixed; */
+      /* z-index: 30; */
+
+}
+.heaa1{
+    font-size: 27px;
+    font-weight: bold; 
+    padding: 15px 200px 15px 100px;
+    color: aliceblue;
+}
+span{
+    color: rgb(255, 111, 0);
+}
+.heinp{
+    width: 550px;
+    height: 55px;
+    border-radius: 50px;  
+}
+.hei1{
+    font-size: 25px;
+    padding-left: 10px;
+    padding-top: 30px;
+    color: aliceblue;
+}
+.hei1:hover{
+    color: rgb(255, 234, 1);
+}
+.hei0{
+padding-left: 290px;
+}
+.hdiv1---{
+width: 90%;
+height: 1px; 
+background-color: rgb(146, 134, 134);
+margin: auto;
+margin-top: 10px;
+}
+.he-ul li {
+    display: inline;
+    font-size: 20px;
+    font-weight: bold;
+}
+.he-ul li a{
+    color: rgb(255, 255, 255);
+    padding-left: 50px;
+}
+.he-ul{
+padding-top: 20px;
+padding-left: 50px;
+}
+.he-ul li a:hover{
+color: rgb(255, 89, 0);
+}
+
+/* //////////////////////////////////////////////////////////////////////////////////////////////////////////// */
+
+/* section1 */
+
+
+
+/* .content{
+width: 100%;
+height: 80vh;
+background-color: rgba(169, 8, 8, 0.266);
+}
+
+.prante{
+width: 100%;
+height: 550px  ;
+background-color: rgba(101, 73, 73, 0.104);
+} */
+
+
+/* //////////////////   Wristwatches section  العنوان //////////////////////// */
+.sec2-div123456{
+    width: 550px;
+    height: 75px;
+    background-color: rgba(252, 252, 252, 0.26);
+    margin: auto;
+}
+
+.sec2-h21{
+    font-size: 50px;
+    margin-top: 37px;
+    margin-left: 57px;
+    font-style: oblique;
+    transition: 2s;
+}
+
+.sec2-div1{
+    width: 170px;
+    height: 3px; 
+    margin: auto;
+    background-color: #000000;
+    transition: 2s;
+}
+
+.sec2-div123456:hover  .sec2-div1{
+    width: 300px;
+    height: 4px;
+    margin-top: 10px;
+    background-color: #ff9900;
+} 
+/* /////////////////////////////////////////////////////////////////// */
+.sec2-h212{
+    font-size: 50px;
+    margin-top: 37px;
+    margin-left: 125px;
+    font-style: oblique;
+    transition: 2s;
+}
+
+.sec2-h2123{
+    font-size: 50px;
+    margin-top: 37px;
+    margin-left: 130px;
+    font-style: oblique;
+    transition: 2s;
+}
+
+
+/* +++++++++++++++++++++++++++++++++++++++++ */
+
+
+
+.body1{
+    width: 100%;
+    height: 400px;
+    /* background-color: rgba(240, 238, 238, 0.375); */
+}
+
+.products   li{
+text-decoration: none;
+display: inline-block;
+}
+
+
+
+.divv1 {
+    width: 300px;
+    height: 270px; 
+    background-color: rgb(255, 255, 255);
+    margin-left: 150px;
+    padding-left: 60px;
+    background-image: url(../images/item5.jpeg);
+    background-size: cover;
+   float: left;
+}
+
+
+.li1{
+font-size: 30px;
+padding-left: 10px;
+text-decoration: none;
+display: inline-block;
+padding-top: 280px;
+color: rgb(0, 0, 0);
+}
+
+
+.li12{
+    font-size: 30px;
+    padding-left: 5px;
+    text-decoration: none;
+    display: inline-block;
+    padding-top: 300px;
+    color: rgb(0, 0, 0);
+    }
+
+.divv2 {
+    width: 300px;
+    height: 270px; 
+    background-color: rgb(255, 255, 255);
+    margin-left: 150px;
+    padding-left: 60px;
+    background-image: url(../images/item3.jpeg);
+    background-size: cover;
+   float: left;
+}
+
+.divv3 {
+    width: 300px;
+    height: 270px; 
+    background-color: rgb(255, 255, 255);
+    margin-left: 150px;
+    padding-left: 60px;
+    background-image: url(../images/3.jpeg);
+    background-size: cover;
+   float: left;
+}
+
+.divv4 {
+    width: 300px;
+    height: 270px; 
+    background-color: rgb(255, 255, 255);
+    margin-left: 150px;
+    padding-left: 60px;
+    background-image: url(../images/item16.jpeg);
+    background-size: cover;
+   float: left;
+}
+
+.divv5 {
+    width: 300px;
+    height: 270px; 
+    background-color: rgb(255, 255, 255);
+    margin-left: 150px;
+    padding-left: 60px;
+    background-image: url(../images/item122.jpeg);
+    background-size: cover;
+   float: left;
+}
+
+
+.divv6 {
+    width: 300px;
+    height: 270px; 
+    background-color: rgb(255, 255, 255);
+    margin-left: 150px;
+    padding-left: 60px;
+    background-image: url(../images/item18.jpg);
+    background-size: cover;
+   float: left;
+}
+
+
+.divv7 {
+    width: 300px;
+    height: 300px; 
+    background-color: rgb(255, 255, 255);
+    margin-left: 150px;
+    padding-left: 60px;
+    background-image: url(../images/item20.jpg);
+    background-size: cover;
+   float: left;
+}
+
+
+.divv8 {
+    width: 300px;
+    height: 300px; 
+    background-color: rgb(255, 255, 255);
+    margin-left: 150px;
+    padding-left: 60px;
+    background-image: url(../images/item14.jpeg);
+    background-size: cover;
+   float: left;
+}
+
+
+.divv9 {
+    width: 300px;
+    height: 300px; 
+    background-color: rgb(255, 255, 255);
+    margin-left: 150px;
+    padding-left: 60px;
+    background-image: url(../images/item10.jpeg);
+    background-size: cover;
+   float: left;
+}
+
+
+/* +++++++++++++++++++++++++++++++    showPrice    +++++++++++++++++++++++++++++++++++ */
+
+
+
+#showPrice{
+margin-left: 670px;
+border-radius: 30px;
+}
+
+#div1{
+font-size: 25px;
+}
+
+.pricetxt{
+
+font-size: 35px;
+color: rgb(255, 0, 0);
+
+}
+
+
+/* ----------------------------------------------------the end------------------------------------- */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
